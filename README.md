@@ -1,2 +1,2 @@
 # UTMOST_FUSION_MAGMA_SMR_COLOC_DrugTarget
-# The analysis code and parameter settings of this study
+# This repository is the codebase related to the TWAS analysis section in the research workflow of "Molecules such as ADCY3 can serve as susceptibility genes and therapeutic targets for breast cancer: Insights from transcriptome-wide association studies and multi-omics analyses." The relevant analyses and parameter settings have been incorporated into the code, and the code has been uploaded to this codebase.
